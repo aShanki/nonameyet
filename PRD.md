@@ -6,9 +6,9 @@ Below is a Product Requirements Document (PRD) for a self-hosted, business-focus
 
 ## 1. Overview
 
-**Product Name:** _(Working Title)_ FriendShaped Hybrid  
+**Product Name:** _(Working Title)_ FriendShaped  
 **Description:**  
-FriendShaped Hybrid is a self-hosted communication platform combining the best features of Slack and Discord with a business-friendly user experience. It emphasizes robust enterprise integrations including OIDC/SAML-based single sign-on (SSO) and Authentik compatibility, while ensuring secure, S3-backed data storage for backups. The platform is designed to serve organizations that demand control over their data and infrastructure without unnecessary "bells and whistles" like inbuilt AI features.
+FriendShaped is a self-hosted communication platform combining the best features of Slack and Discord with a business-friendly user experience. It emphasizes robust enterprise integrations including OIDC/SAML-based single sign-on (SSO) and Authentik compatibility, while ensuring secure, S3-backed data storage for backups. The platform is designed to serve organizations that demand control over their data and infrastructure without unnecessary "bells and whistles" like inbuilt AI features.
 
 **Target Audience:**  
 - Mid-to-large enterprises  
